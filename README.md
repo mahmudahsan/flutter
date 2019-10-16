@@ -25,7 +25,7 @@ In this repository I publish all of my open source flutter and dart projects and
 2. [Youtube - Flutter Video Tutorials](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
 3. [Udemy - Dart and Flutter for Mobile Apps Development](https://www.udemy.com/dart-flutter-course/?couponCode=ITHINKDIFF)
 
-### Flutter Full Application / Open Source
+### Flutter Full Application
 1. [Todos](https://github.com/mahmudahsan/flutter_todos) | [Tutorial](https://youtu.be/OQG3MxenJsM)
 
 ### Flutter Tutorials Beginners
@@ -40,5 +40,11 @@ In this repository I publish all of my open source flutter and dart projects and
 3. [State: Redux](https://git.io/fjScV) | [Tutorial](https://www.youtube.com/watch?v=vzCszJQ_qZQ&t=793s)
 4. [State: Bloc](https://git.io/fjbWm) | [Tutorial](https://youtu.be/BHC_D52TecY)
 
+### Flutter Mixed
+- [Form](flutter/form) | [Tutorial](https://www.youtube.com/watch?v=S-nLT3TRJFY&t=1646s)
 
-6. [Form](flutter/form) | [Tutorial](https://www.youtube.com/watch?v=S-nLT3TRJFY&t=1646s)
+### Resources
+
+- [Official Site](https://flutter.dev/)
+- [Widget Category](https://flutter.dev/docs/reference/widgets)
+- [Pub.Dev](https://pub.dev/)
