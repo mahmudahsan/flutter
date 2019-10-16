@@ -6,7 +6,7 @@
   - [Types in Function](#types-in-function)
   - [String](#string)
   - [Types Conversion](#types-conversion)
-  - [Constant Values](#constant-values)
+  - [Constant and Final Values](#constant-and-final)
 - [Comments](#comments)
 - [null object](#null-object)
 - [Operators](#operators)
@@ -301,8 +301,11 @@ String piAsString = 3.14159.toStringAsFixed(2);
 assert(piAsString == '3.14');
 ```
 
-### Constant Values
+### Constant and Final
 
+Constant is a compile time constant value and final variable can be set only once.
+
+> Constant example:
 ```dart
   const aConstNum = 0; // int constant
   const aConstBool = true; // bool constant 
@@ -315,6 +318,21 @@ assert(piAsString == '3.14');
   print(aConstNum.runtimeType);
   print(aConstBool.runtimeType);
   print(aConstString.runtimeType);
+```
+
+> Final Example:
+```dart
+final amount = 5;
+print(amount);
+```
+
+We can also use `const` keyword to define constant values
+```dart
+void main() {
+  var list = const [1, 2, 3];
+  list.add(4); // it will produce error as list points constant values
+  print(list);
+}
 ```
 
 
