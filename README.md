@@ -43,6 +43,12 @@ In this repository I publish all of my open source flutter and dart projects and
 ### Flutter Mixed
 - [Form](flutter/form) | [Tutorial](https://www.youtube.com/watch?v=S-nLT3TRJFY&t=1646s)
 
+### Quick Reference
+
+1. [Dart Language](dart/) | [Video](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3)
+2. [Flutter](flutter/) | [Video](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
+
+
 ### Resources
 
 - [Official Site](https://flutter.dev/)
