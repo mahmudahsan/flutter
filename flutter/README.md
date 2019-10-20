@@ -2,6 +2,7 @@
 
 - [Background](#background)
 - [Widget](#widget)
+- [Important Widgets](#important-widgets)
 - [Layout in Flutter](https://flutter.dev/docs/development/ui/layout)
 - [Animated Container](#animated-container)
 - [Animated Opacity](#animated-opacity)
@@ -88,6 +89,33 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
+
+### Important Widgets
+
+> These are the widgets I often used when I develop flutter based mobile app.
+
+- [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
+- [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Padding](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+- [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
+- [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+  - [Text Style](https://api.flutter.dev/flutter/dart-ui/TextStyle-class.html)
+- [List View](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+  - [List Tile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+- [SizedBox](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
+- [LimitedBox](https://api.flutter.dev/flutter/widgets/LimitedBox-class.html)
+- [IntrinsicHeight](https://api.flutter.dev/flutter/widgets/IntrinsicHeight-class.html)
+- [IntrinsicWidth](https://api.flutter.dev/flutter/widgets/IntrinsicWidth-class.html)
+- [GestureDetector](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
+- [CustomScrollView](https://api.flutter.dev/flutter/widgets/CustomScrollView-class.html)
+- [SliverList](https://api.flutter.dev/flutter/widgets/SliverList-class.html)
+- [InkWell](https://api.flutter.dev/flutter/material/InkWell-class.html)
+
+
 
 ### Animated Container
 
