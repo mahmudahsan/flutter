@@ -2,6 +2,7 @@
 
 - [Background](#background)
 - [Widget](#widget)
+- [BuildContext](#buildcontext)
 - [Important Widgets](#important-widgets)
 - [Layout in Flutter](https://flutter.dev/docs/development/ui/layout)
 - [Animated Container](#animated-container)
@@ -89,6 +90,10 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
+
+### BuildContext
+
+> BuildContext is a handle to the location of a widget in the widget tree. [BuildContext Class](https://api.flutter.dev/flutter/widgets/BuildContext-class.html)
 
 ### Important Widgets
 
