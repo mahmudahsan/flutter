@@ -26,7 +26,8 @@ In this repository I publish all of my open source flutter and dart projects and
 3. [Udemy - Dart and Flutter for Mobile Apps Development](https://www.udemy.com/dart-flutter-course/?couponCode=ITHINKDIFF)
 
 ### Flutter Full Application
-1. [Todos](https://github.com/mahmudahsan/flutter_todos) | [Tutorial](https://youtu.be/OQG3MxenJsM)
+1. [Vote](https://git.io/JeRjb) | [Tutorial](https://www.youtube.com/watch?v=Iu9DpbzR83s&list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E&index=2&t=0s)
+2. [Todos](https://github.com/mahmudahsan/flutter_todos) | [Tutorial](https://youtu.be/OQG3MxenJsM)
 
 ### Flutter Tutorials Beginners
 1. [Dart Programming Language for Beginners](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=2&t=10s)
