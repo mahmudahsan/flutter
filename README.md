@@ -35,9 +35,9 @@ In this repository I publish all of my open source flutter and dart projects and
 ### Flutter Tutorials Managing States
 
 1. [Stateful Widget](https://www.youtube.com/watch?v=8iHfqfHclTQ&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=17&t=0s)
-2. [State: Provider](https://git.io/fjyR6) | [Tutorial](https://www.youtube.com/watch?v=fEIdWV8MAso)
-3. [State: Redux](https://git.io/fjScV) | [Tutorial](https://www.youtube.com/watch?v=vzCszJQ_qZQ&t=793s)
-4. [State: Bloc](https://git.io/fjbWm) | [Tutorial](https://youtu.be/BHC_D52TecY)
+2. [State: Provider](https://git.io/Je4ZP) | [Tutorial](https://www.youtube.com/watch?v=fEIdWV8MAso)
+3. [State: Redux](https://git.io/Je4Z6) | [Tutorial](https://www.youtube.com/watch?v=vzCszJQ_qZQ&t=793s)
+4. [State: Bloc](https://git.io/Je4s5) | [Tutorial](https://youtu.be/BHC_D52TecY)
 
 ### Flutter Mixed
 - [Form](flutter/form) | [Tutorial](https://www.youtube.com/watch?v=S-nLT3TRJFY&t=1646s)
