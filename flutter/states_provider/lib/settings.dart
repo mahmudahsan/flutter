@@ -30,7 +30,7 @@ class _SettingsState extends State<Settings> {
               child: Text(
                 'Font Size: ${ui.fontSize.toInt()}',
                 style: TextStyle(
-                    fontSize: Theme.of(context).textTheme.headline.fontSize),
+                    fontSize: Theme.of(context).textTheme.headline5.fontSize),
               ),
             ),
             Slider(

@@ -12,9 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(
-          builder: (_) => UI(),
-        ),
+        ChangeNotifierProvider(create: (_) => UI()),
       ],
       child: MaterialApp(
         initialRoute: '/',
