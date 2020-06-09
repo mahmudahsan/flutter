@@ -39,7 +39,7 @@ class Settings extends StatelessWidget {
                   min: 0.5,
                   value: state.sliderFontSize,
                   onChanged: (newValue) {
-                    settingsBloc.dispatch(FontSize(newValue));
+                    settingsBloc.add(FontSize(newValue));
                   }),
               Container(
                 margin: EdgeInsets.symmetric(horizontal: 8),
@@ -48,7 +48,7 @@ class Settings extends StatelessWidget {
                     Checkbox(
                       value: state.isBold,
                       onChanged: (newVal) {
-                        settingsBloc.dispatch(Bold(newVal));
+                        settingsBloc.add(Bold(newVal));
                       },
                     ),
                     Text(
@@ -65,7 +65,7 @@ class Settings extends StatelessWidget {
                     Checkbox(
                         value: state.isItalic,
                         onChanged: (newVal) {
-                          settingsBloc.dispatch(Italic(newVal));
+                          settingsBloc.add(Italic(newVal));
                         }),
                     Text(
                       'Italic',

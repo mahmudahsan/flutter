@@ -7,7 +7,7 @@ import 'package:states_bloc/bloc/settings/settings_bloc.dart';
 
 void main() {
   final BlocProvider<SettingsBloc> blocProvider = BlocProvider<SettingsBloc>(
-    builder: (_) => SettingsBloc(),
+    create: (_) => SettingsBloc(),
     child: MyApp(),
   );
 
