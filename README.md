@@ -40,7 +40,7 @@ In this repository I publish all of my open source flutter and dart projects and
 4. [State: Bloc](https://git.io/Je4s5) | [Tutorial](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
 
 ### Flutter Mixed
-- [Form](flutter/form) | [Tutorial](https://www.youtube.com/watch?v=S-nLT3TRJFY&t=1646s)
+- [Form](flutter/form) | [Tutorial](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 
 ### Quick Reference
 
