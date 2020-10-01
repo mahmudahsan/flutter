@@ -32,6 +32,8 @@ In this repository I publish all of my open source flutter and dart projects and
 2. [Flutter for Beginners - Creating First App](https://www.youtube.com/watch?v=HFl29MoZ6MA&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3&t=0s)
 3. [How to Create a Profile Page App](https://www.youtube.com/watch?v=ULxYR66BRb4&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=5&t=0s)
 
+### [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
+
 ### Flutter Tutorials Managing States
 
 1. [Stateful Widget](https://www.youtube.com/watch?v=8iHfqfHclTQ&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=17&t=0s)
