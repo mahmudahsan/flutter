@@ -121,7 +121,7 @@ void main() {
 
 - Everything you can place in a variable is an object, and every object is an instance of a class. Even numbers, functions, and null are objects. 
 - All objects inherit from the `Object` class.
-- Static typed language. Can not assign integer value to String type etc.
+- Dart is a strongly typed typed language. Can not assign integer value to String type etc.
 - Dart supports generic types, like `List<int>` (a list of integers) or `List<dynamic>` (a list of objects of any type).
 - Unlike Java, Dart doesn’t have the keywords `public`, `protected`, and `private`
 - ( ; ) Semicolon is mandatory to the end of statements
