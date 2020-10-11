@@ -16,6 +16,10 @@
     </a>
 </p>
 
+# Dart
+- [Article: Dart Programming Language for Programmers](https://medium.com/@mahmudahsan/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
+- [Video: Dart Programming Language for Beginners](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=2)
+
 # Flutter
 In this repository I publish all of my open source flutter and dart projects and tutorials.
 
@@ -28,9 +32,8 @@ In this repository I publish all of my open source flutter and dart projects and
 2. [Todos](https://github.com/mahmudahsan/flutter_todos) | [Tutorial](https://youtu.be/OQG3MxenJsM)
 
 ### Flutter Tutorials Beginners
-1. [Dart Programming Language for Beginners](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=2&t=10s)
-2. [Flutter for Beginners - Creating First App](https://www.youtube.com/watch?v=HFl29MoZ6MA&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3&t=0s)
-3. [How to Create a Profile Page App](https://www.youtube.com/watch?v=ULxYR66BRb4&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=5&t=0s)
+1. [Flutter for Beginners - Creating First App](https://www.youtube.com/watch?v=HFl29MoZ6MA&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3&t=0s)
+2. [How to Create a Profile Page App](https://www.youtube.com/watch?v=ULxYR66BRb4&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=5&t=0s)
 
 ### [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
 
