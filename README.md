@@ -49,7 +49,7 @@ In this repository I publish all of my open source flutter and dart projects and
 
 ### Quick Reference
 
-1. [Dart Language](dart/) | [Video](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3)
+1. [Dart Language](https://medium.com/level-up-programming/dart-language-tutorial-for-programmers-e1ff2c8b7d86) | [Video](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3)
 2. [Flutter](flutter/) | [Video](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
 
 
