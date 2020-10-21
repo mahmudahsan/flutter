@@ -40,7 +40,7 @@ In this repository I publish all of my open source flutter and dart projects and
 ### Flutter Tutorials Managing States
 
 1. [Stateful Widget](https://www.youtube.com/watch?v=8iHfqfHclTQ&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=17&t=0s)
-2. [State: Provider](https://git.io/Je4ZP) | [Tutorial](https://www.youtube.com/watch?v=fEIdWV8MAso)
+2. [State: Provider](https://git.io/Je4ZP) | [Tutorial](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
 3. [State: Redux](https://git.io/Je4Z6) | [Tutorial](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
 4. [State: Bloc](https://git.io/Je4s5) | [Tutorial](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
 
