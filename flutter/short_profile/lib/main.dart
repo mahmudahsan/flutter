@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:short_profile/widgets/info_card.dart';
+import 'package:short_profile/widget/info_card.dart';
 import 'package:url_launcher/url_launcher.dart' as launcher;
 
 const url = 'http://thinkdiff.net';
@@ -81,7 +81,8 @@ class Home extends StatelessWidget {
               text: phone,
               icon: Icons.phone,
               onPressed: () async {
-                String removeSpaceFromPhoneNumber = phone.replaceAll(new RegExp(r"\s+\b|\b\s"), "");
+                String removeSpaceFromPhoneNumber =
+                    phone.replaceAll(new RegExp(r"\s+\b|\b\s"), "");
                 final phoneCall = 'tel:$removeSpaceFromPhoneNumber';
 
                 if (await launcher.canLaunch(phoneCall)) {
