@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class InfoCard extends StatelessWidget {
   final String text;
@@ -25,11 +26,7 @@ class InfoCard extends StatelessWidget {
           ),
           title: Text(
             text,
-            style: TextStyle(
-              fontFamily: 'Source Sans Pro',
-              fontSize: 20.0,
-              color: Colors.teal,
-            ),
+            style: GoogleFonts.sourceSansPro(fontSize: 20, color: Colors.teal),
           ),
         ),
       ),
