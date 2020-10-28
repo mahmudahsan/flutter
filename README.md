@@ -23,29 +23,21 @@
 # Flutter
 In this repository I publish all of my open source flutter and dart projects and tutorials.
 
-### Tutorials
+### Written Tutorials
+1. [Getting Started With Flutter– Create Your First Flutter App](https://medium.com/level-up-programming/getting-started-with-flutter-create-your-first-flutter-app-f6dea473f57d)
+3. [State: Provider](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
+4. [State: Redux](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
+5. [State: Bloc](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
+6. [Form](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
+7. [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
+
+### Video Tutorials
 1. [Youtube - Flutter Playlist 1](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
 2. [Youtube - Flutter Playlist 2](https://www.youtube.com/playlist?list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E)
 
 ### Flutter Full Application
 1. [Vote](https://git.io/JeRjb) | [Tutorial](https://www.youtube.com/watch?v=Iu9DpbzR83s&list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E&index=2&t=0s)
 2. [Todos](https://github.com/mahmudahsan/flutter_todos) | [Tutorial](https://youtu.be/OQG3MxenJsM)
-
-### Flutter Tutorials Beginners
-1. [Flutter for Beginners - Creating First App](https://www.youtube.com/watch?v=HFl29MoZ6MA&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=3&t=0s)
-2. [How to Create a Profile Page App](https://www.youtube.com/watch?v=ULxYR66BRb4&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=5&t=0s)
-
-### [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
-
-### Flutter Tutorials Managing States
-
-1. [Stateful Widget](https://www.youtube.com/watch?v=8iHfqfHclTQ&list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ&index=17&t=0s)
-2. [State: Provider](https://git.io/Je4ZP) | [Tutorial](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
-3. [State: Redux](https://git.io/Je4Z6) | [Tutorial](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
-4. [State: Bloc](https://git.io/Je4s5) | [Tutorial](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
-
-### Flutter Mixed
-- [Form](flutter/form) | [Tutorial](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 
 ### Quick Reference
 
