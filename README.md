@@ -25,10 +25,10 @@ In this repository I publish all of my open source flutter and dart projects and
 
 ### Written Tutorials
 1. [Getting Started With Flutter– Create Your First Flutter App](https://medium.com/level-up-programming/getting-started-with-flutter-create-your-first-flutter-app-f6dea473f57d)
-3. [State: Provider](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
-4. [State: Redux](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
-5. [State: Bloc](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
-6. [Form](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
+3. [How to Use Provider in Flutter](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
+4. [How to Use Redux in Flutter](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
+5. [How to Use Bloc in Flutter to Manage State](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
+6. [How to Create, Validate and Save Form in Flutter](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 7. [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
 
 ### Video Tutorials
