@@ -49,18 +49,27 @@ class _HomeScreenState extends State<HomeScreen> {
         costForEachRow.removeLast();
       }
     });
+
+    _updateTotalCost();
   }
 
   void _updateCostForEachRow(int rowNum, double newVal) {
+    print("Row ${rowNum} - newVal ${newVal}");
     setState(() {
       if (costForEachRow.length > rowNum) {
         costForEachRow[rowNum] = newVal;
       }
+    });
 
-      double totalCost =
-          costForEachRow.reduce((value, element) => value + element);
+    _updateTotalCost();
+  }
 
-      print("Total Cost: ${totalCost}");
+  void _updateTotalCost() {
+    setState(() {
+      double totalCost = costForEachRow.length > 0
+          ? costForEachRow.reduce((value, element) => value + element)
+          : 0;
+
       if (totalCost > 0.0) {
         title = "${appTitle} | Total Cost: \$${totalCost}";
       } else {
@@ -88,6 +97,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       floatingActionButton: Container(
         child: FloatingButtonsWidget(
+          totalRow: this.totalRow,
           addRow: _addRow,
           deleteLastRow: _deleteLastRow,
         ),
@@ -97,24 +107,26 @@ class _HomeScreenState extends State<HomeScreen> {
 }
 
 class FloatingButtonsWidget extends StatelessWidget {
+  int totalRow;
   Function addRow;
   Function deleteLastRow;
 
-  FloatingButtonsWidget({this.addRow, this.deleteLastRow});
+  FloatingButtonsWidget({this.totalRow, this.addRow, this.deleteLastRow});
 
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: EdgeInsets.only(left: 30),
+      padding: EdgeInsets.only(left: 28),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
-          FloatingActionButton.extended(
-            onPressed: deleteLastRow,
-            label: Text('Delete'),
-            icon: Icon(Icons.remove),
-            backgroundColor: Colors.pink,
-          ),
+          if (totalRow > 0)
+            FloatingActionButton.extended(
+              onPressed: deleteLastRow,
+              label: Text('Delete'),
+              icon: Icon(Icons.remove),
+              backgroundColor: Colors.pink,
+            ),
           FloatingActionButton.extended(
             onPressed: addRow,
             label: Text('Add'),

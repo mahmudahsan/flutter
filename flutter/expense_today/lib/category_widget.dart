@@ -58,10 +58,18 @@ class _CategoryWidgetState extends State<CategoryWidget> {
               child: TextField(
                 controller: _controller,
                 inputFormatters: [
-                  FilteringTextInputFormatter.allow(RegExp(r'[0-9](.){0,1}'))
+                  FilteringTextInputFormatter.allow(
+                      RegExp(r'[0-9]+(\.){0,1}[0-9]*'))
                 ],
                 onChanged: (text) {
-                  widget.callback(widget.rowNumber, double.parse(text));
+                  double val = 0.0;
+                  try {
+                    val = double.parse(text);
+                  } catch (e) {
+                    print("text is not convertible to double");
+                  }
+
+                  widget.callback(widget.rowNumber, val);
                 },
                 decoration: InputDecoration(
                   border: OutlineInputBorder(),
