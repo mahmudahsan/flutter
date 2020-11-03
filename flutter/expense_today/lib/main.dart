@@ -53,17 +53,6 @@ class _HomeScreenState extends State<HomeScreen> {
     _updateTotalCost();
   }
 
-  void _updateCostForEachRow(int rowNum, double newVal) {
-    print("Row ${rowNum} - newVal ${newVal}");
-    setState(() {
-      if (costForEachRow.length > rowNum) {
-        costForEachRow[rowNum] = newVal;
-      }
-    });
-
-    _updateTotalCost();
-  }
-
   void _updateTotalCost() {
     setState(() {
       double totalCost = costForEachRow.length > 0
@@ -76,6 +65,17 @@ class _HomeScreenState extends State<HomeScreen> {
         title = appTitle;
       }
     });
+  }
+
+  void _updateCostForEachRow(int rowNum, double newVal) {
+    print("Row ${rowNum} - newVal ${newVal}");
+    setState(() {
+      if (costForEachRow.length > rowNum) {
+        costForEachRow[rowNum] = newVal;
+      }
+    });
+
+    _updateTotalCost();
   }
 
   @override
