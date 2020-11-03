@@ -16,14 +16,6 @@ class CategoryWidget extends StatefulWidget {
 }
 
 class _CategoryWidgetState extends State<CategoryWidget> {
-  TextEditingController _controller = TextEditingController(text: "");
-
-  @override
-  void dispose() {
-    _controller.dispose();
-    super.dispose();
-  }
-
   @override
   Widget build(BuildContext context) {
     return Card(
@@ -56,7 +48,6 @@ class _CategoryWidgetState extends State<CategoryWidget> {
             Icon(Icons.attach_money),
             Expanded(
               child: TextField(
-                controller: _controller,
                 inputFormatters: [
                   FilteringTextInputFormatter.allow(
                       RegExp(r'[0-9]+(\.){0,1}[0-9]*'))
