@@ -22,7 +22,7 @@ In this repository I publish all of my open source flutter and dart projects and
 ### Written Tutorials
 - [Dart Programming Language for Programmers](https://medium.com/level-up-programming/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
 - [Getting Started With Flutter– Create Your First Flutter App](https://medium.com/level-up-programming/getting-started-with-flutter-create-your-first-flutter-app-f6dea473f57d)
-- [Flutter Tutorial– Build an Expense App](https://medium.com/level-up-programming/flutter-tutorial-build-an-expense-app-4268ff945998)
+- [Getting Started With Flutter– Build an Expense App](https://medium.com/level-up-programming/flutter-tutorial-build-an-expense-app-4268ff945998)
 - [How to Use Provider in Flutter](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
 - [How to Use Redux in Flutter](https://medium.com/level-up-programming/how-to-use-redux-in-flutter-app-6299f69fadee)
 - [How to Use Bloc in Flutter to Manage State](https://medium.com/level-up-programming/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
