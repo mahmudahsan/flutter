@@ -1,23 +1,5 @@
-<p align="center">
-    <img src="cover.png" alt="Flutter" />
-</p>
-<p align="center">
-    <a href="https://flutterbook.net/">
-        <img src="https://img.shields.io/badge/tutorial-flutterbook.net-brightgreen.svg" alt="https://flutterbook.net/" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg">
-        <img src="https://img.shields.io/badge/my-youtube channel-red.svg" alt="Youtube" />
-    </a>
-    <a href="https://ithinkdiff.net/">
-        <img src="https://img.shields.io/badge/mobile-apps-yellow.svg" alt="ithinkdiff.net" />
-    </a>
-    <a href="https://twitter.com/mahmudahsan">
-        <img src="https://img.shields.io/badge/contact%40-mahmudahsan-blue.svg" alt="Twitter: @mahmudahsan" />
-    </a>
-</p>
-
 # Flutter
-In this repository I publish all of my open source flutter and dart projects and tutorials.
+In this repository I publish all of my open source flutter, dart projects, and tutorials.
 
 ### Written Tutorials
 - [Dart Programming Language for Programmers](https://medium.com/level-up-programming/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
@@ -32,6 +14,7 @@ In this repository I publish all of my open source flutter and dart projects and
 ### Video Tutorials
 1. [Youtube - Flutter Playlist 1](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
 2. [Youtube - Flutter Playlist 2](https://www.youtube.com/playlist?list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E)
+3. [Flutterbook.net - All Video Tutorials](https://flutterbook.net/)
 
 ### Flutter Full Application
 1. [Vote](https://git.io/JeRjb) | [Tutorial](https://www.youtube.com/watch?v=Iu9DpbzR83s&list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E&index=2&t=0s)
