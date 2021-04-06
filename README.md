@@ -14,7 +14,6 @@ In this repository I publish all of my open source flutter, dart projects, and t
 ### Video Tutorials
 1. [Youtube - Flutter Playlist 1](https://www.youtube.com/playlist?list=PLlMOodDAsO4xrTgVEkKXfVf7sSVEsmWKQ)
 2. [Youtube - Flutter Playlist 2](https://www.youtube.com/playlist?list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E)
-3. [Flutterbook.net - All Video Tutorials](https://flutterbook.net/)
 
 ### Flutter Full Application
 1. [Vote](https://git.io/JeRjb) | [Tutorial](https://www.youtube.com/watch?v=Iu9DpbzR83s&list=PLlMOodDAsO4zQ243zMHKKrV316PJU9q0E&index=2&t=0s)
