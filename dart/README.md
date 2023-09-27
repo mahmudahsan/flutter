@@ -211,11 +211,11 @@ void main() {
 
 #### Tips 
  
-- Best to ***avoid*** `var` and `dynamic` type to get advantage of type-safe language. It will create less error.
+- Best to ***avoid*** `var` and `dynamic` type to take advantage of the type-safe language. It will create less error.
 
 ### Types in Function
 
-Here we first defined a `square` function that take integer and return integer value after multiplication.
+Here we first defined a `square` function that takes an integer and returns an integer value after multiplication.
 
 `doubleSquare` function takes `double` value and returns a `double` value type.
 
@@ -326,7 +326,7 @@ final amount = 5;
 print(amount);
 ```
 
-We can also use `const` keyword to define constant values
+We can also use the `const` keyword to define constant values
 ```dart
 void main() {
   var list = const [1, 2, 3];
@@ -349,7 +349,7 @@ Block comment
 
 ### null object
 
-If a variable is declared but didn't assign with any value, it contains `null` object.
+If a variable is declared but wasn't assigned with any value, it contains a `null` object.
 
 ```dart
 void main() {
@@ -360,7 +360,7 @@ void main() {
 
 ### Operators
 
-Same like JavaScript language. All the standard operators will work here.
+Similar to the JavaScript language, all the standard operators will work here.
 
 ```dart
 void main() {
@@ -535,7 +535,7 @@ The previous example is equivalent to:
 
 #### if..else if..else
 
-Same like `JavaScript` language.
+Similar to the `JavaScript` language.
 
 ```dart
 int number = 100;
@@ -551,7 +551,7 @@ else {
 }
 ```
 #### Switch statement
-Same like `JavaScript` language.
+Similar to the `JavaScript` language.
 
 ```dart
 int number = 1;
@@ -570,7 +570,7 @@ switch(number) {
 
 ### Loop
 
-Same like `JavaScript` language
+Similar to the `JavaScript` language
 
 1. **Standard for loop**
 ```dart
@@ -590,7 +590,7 @@ for (var n in numbers) {
 
 3. **forEach loop**
 
-Here inside `forEach` method we provide a function. Thus `forEach` is a higher order function. Also in this first example, within `forEach` we are using `anonymous` function.
+Here inside the `forEach` method we provide a function. Thus `forEach` is a higher order function. Also in this first example, within `forEach` we are using `anonymous` function.
 
 ```dart
 var numbers = [1, 2, 3];
